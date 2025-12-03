@@ -1,0 +1,7 @@
+{
+  "name": "PayPe - UPI Payment Clone",
+  "description": "A fully functional UPI payment clone featuring QR scanning, smart payee resolution using Gemini AI, and secure money transfers in Indian Rupees.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
